@@ -29,8 +29,6 @@
         "BG_MOD_STRONG": ["#140202"],
         "SCROLLBAR_AUTO_THUMB": ["#f69797"],
         "HEADER_SECONDARY": ["#FF8787"],
-        "INTERACTIVE_NORMAL": ["#FF2828"],
-        "INTERACTIVE_MUTED": ["#A13131"],
         "THREAD_CHANNEL_SPINE": ["#BE4343"],
         "BG_BRAND": ["#BE4343"],
         "BG_BACKDROP": ["#73010173"]
@@ -84,8 +82,7 @@
         "PLUM_22": "#280202",
         "PLUM_24": "#612323",
         "TEXT_LINK": "#f79393",
-        "TEXT_NORMAL": "#f79393",
-        "TEXT_MUTED": "#818491"
+        "TEXT_NORMAL": "#f79393"
     },
     "plus": {
         "version": 0,
