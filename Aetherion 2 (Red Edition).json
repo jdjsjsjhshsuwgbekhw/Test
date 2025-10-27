@@ -33,7 +33,8 @@
 "INTERACTIVE_NORMAL": ["#FF2828"],
 "THREAD_CHANNEL_SPINE": ["#BE4343"],
 "BG_BRAND": ["#BE4343"],
-"BG_BACKDROP": ["#73010173"]
+"BG_BACKDROP": ["#73010173"],
+"MENTION_BACKGROUND": ["#FF2200"]
 },
 "rawColors": {
 "PRIMARY_230": "#280103",
@@ -72,6 +73,7 @@
 "BRAND_830": "#381414",
 "BRAND_860": "#240d0d",
 "BRAND_900": "#0c0404",
+"PLUM_0": "#140202",
 "PLUM_1": "#ff4f4f",
 "PLUM_3": "#FF4F4F",
 "PLUM_7": "#643535",
@@ -89,7 +91,7 @@
 "plus": {
 "version": 0,
 "iconpack": "rosiecord-plumpy",
-"mentionLineColor": "#fc2525",
+"mentionLineColor": "#FF2200",
 "icons": {
 "ic_new_pins": "#ff4f4f",
 "StatusStreaming": "#ff5252",
@@ -97,8 +99,7 @@
 "StatusIdle": "#f6a777",
 "StatusDND": "#eb6f6f",
 "StatusOffline": "#866a6a",
-"StatusOnline": "#eda15a",
-"mentionLineColor": "#FF2200"
+"StatusOnline": "#eda15a"
 }
 },
 "spec": 2
