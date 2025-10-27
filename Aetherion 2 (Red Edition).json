@@ -29,6 +29,7 @@
 "REDESIGN_INPUT_CONTROL_SELECTED": ["#c40909"],
 "BG_BASE_TERTIARY": ["#140202"],
 "BACKGROUND_PRIMARY": ["#140202"],
+"BACKGROUND_TERTIARY": ["#3C1BF0"],
 "BG_BASE_PRIMARY": ["#140202"],
 "BACKGROUND_FLOATING": ["#230202"],
 "BG_MOD_STRONG": ["#140202"],
@@ -98,7 +99,7 @@
 "iconpack": "rosiecord-plumpy",
 "mentionLineColor": "#FF2200",
 "icons": {
-"ic_new_pins": "#4E1919",
+"ic_new_pins": "#ff4f4f",
 "StatusStreaming": "#ff5252",
 "StatusMobileOnline": "#eda15a",
 "StatusIdle": "#f6a777",
