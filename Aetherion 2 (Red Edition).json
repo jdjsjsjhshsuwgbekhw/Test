@@ -9,7 +9,6 @@
     ],
     "semanticColors": {
         "ANDROID_RIPPLE": ["#8a4343"],
-        "PANEL_BG": ["#230202"],
         "BACKGROUND_ACCENT": ["#eb5050"],
         "BACKGROUND_MOBILE_PRIMARY": ["#140202"],
         "BACKGROUND_MOBILE_SECONDARY": ["#140202"],
