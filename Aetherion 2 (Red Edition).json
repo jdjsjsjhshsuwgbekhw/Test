@@ -3,16 +3,16 @@
     "description": "A Comfy Dark Red Theme",
     "authors": [
         {
-            "name": "Lynx_StxrTouchVT",
+            "name": "Nerfoc",
             "id": "183251375193456641"
         }
     ],
     "semanticColors": {
         "ANDROID_RIPPLE": ["#8a4343"],
         "BACKGROUND_ACCENT": ["#eb5050"],
-        "BACKGROUND_MOBILE_PRIMARY": ["#280202"],
-        "BACKGROUND_MOBILE_SECONDARY": ["#280202"],
-        "BACKGROUND_SECONDARY": ["#390303"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#140202"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#140202"],
+        "BACKGROUND_SECONDARY": ["#140202"],
         "BACKGROUND_SECONDARY_ALT": ["#140202"],
         "BACKGROUND_MODIFIER_ACTIVE": ["#280202"],
         "BACKGROUND_MODIFIER_ACCENT": ["#280202"],
@@ -29,9 +29,11 @@
         "HEADER_SECONDARY": ["#FF8787"],
         "INTERACTIVE_NORMAL": ["#FF2828"],
         "INTERACTIVE_MUTED": ["#A13131"],
+        "THREAD_CHANNEL_SPINE": ["#BE4343"],
         "BG_BACKDROP": ["#73010173"]
     },
     "rawColors": {
+        "PRIMARY_230": "#141414",
         "PRIMARY_600": "#280202",
         "PRIMARY_630": "#1b1211",
         "PRIMARY_645": "#280202",
@@ -80,26 +82,6 @@
         "PLUM_24": "#612323",
         "TEXT_LINK": "#f79393",
         "TEXT_NORMAL": "#f79393"
-    },
-    "fonts": {
-        "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
-        "ggsans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
-        "ggsans-BoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
-        "ggsans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
-        "ggsans-ExtraBoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
-        "ggsans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-        "ggsans-MediumItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-        "ggsans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-        "ggsans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-        "ggsans-Semibold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-        "ggsans-SemiboldItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-        "NotoSans-Bold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-        "NotoSans-ExtraBold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-        "NotoSans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-        "NotoSans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-        "NotoSans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-        "NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
-        "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
     },
     "plus": {
         "version": 0,
